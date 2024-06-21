@@ -1,0 +1,21 @@
+# Node modules
+frontend/node_modules/
+
+# Build directories
+frontend/build/
+frontend/dist/
+
+# Django
+Backend/env/
+Backend/backend/__pycache__/
+Backend/backend/db.sqlite3
+Backend/backend/media/
+Backend/backend/profile_pic/
+
+# Python
+*.pyc
+*.pyo
+__pycache__
+
+# Environment variables
+*.env
